@@ -1,15 +1,13 @@
 [
     {
         "package": "arrowheadr",
-        "url": "https://github.com/wjschne/arrowheadr",
-        "branch": "*release"
+        "url": "https://github.com/wjschne/arrowheadr"
 
 
     },
     {
         "package": "simstandard",
-        "url": "https://github.com/wjschne/simstandard",
-        "branch": "*release"
+        "url": "https://github.com/wjschne/simstandard"
 
 
     },
@@ -22,29 +20,25 @@
     },
     {
         "package": "WJSmisc",
-        "url": "https://github.com/wjschne/WJSmisc",
-        "branch": "*release"
+        "url": "https://github.com/wjschne/WJSmisc"
 
 
     },
     {
         "package": "apa7",
-        "url": "https://github.com/wjschne/apa7",
-        "branch": "*release"
+        "url": "https://github.com/wjschne/apa7"
 
 
     },
     {
         "package": "psycheval",
-        "url": "https://github.com/wjschne/psycheval",
-        "branch": "*release"
+        "url": "https://github.com/wjschne/psycheval"
 
 
     },
     {
         "package": "unusualprofile",
-        "url": "https://github.com/wjschne/unusualprofile",
-        "branch": "*release"
+        "url": "https://github.com/wjschne/unusualprofile"
 
 
     }
