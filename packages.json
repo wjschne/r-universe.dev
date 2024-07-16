@@ -1,0 +1,51 @@
+[
+    {
+        "package": "arrowheadr",
+        "url": "https://github.com/wjschne/arrowheadr",
+        "branch": "*release"
+
+
+    },
+    {
+        "package": "simstandard",
+        "url": "https://github.com/wjschne/simstandard",
+        "branch": "*release"
+
+
+    },
+    {
+        "package": "ggnormalviolin",
+        "url": "https://github.com/wjschne/ggnormalviolin",
+        "branch": "*release"
+
+
+    },
+    {
+        "package": "WJSmisc",
+        "url": "https://github.com/wjschne/WJSmisc",
+        "branch": "*release"
+
+
+    },
+    {
+        "package": "apa7",
+        "url": "https://github.com/wjschne/apa7",
+        "branch": "*release"
+
+
+    },
+    {
+        "package": "psycheval",
+        "url": "https://github.com/wjschne/psycheval",
+        "branch": "*release"
+
+
+    },
+    {
+        "package": "unusualprofile",
+        "url": "https://github.com/wjschne/unusualprofile",
+        "branch": "*release"
+
+
+    }
+]
