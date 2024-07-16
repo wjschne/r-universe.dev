@@ -2,44 +2,29 @@
     {
         "package": "arrowheadr",
         "url": "https://github.com/wjschne/arrowheadr"
-
-
     },
     {
         "package": "simstandard",
         "url": "https://github.com/wjschne/simstandard"
-
-
     },
     {
         "package": "ggnormalviolin",
-        "url": "https://github.com/wjschne/ggnormalviolin",
-        "branch": "*release"
-
-
+        "url": "https://github.com/wjschne/ggnormalviolin"
     },
     {
         "package": "WJSmisc",
         "url": "https://github.com/wjschne/WJSmisc"
-
-
     },
     {
         "package": "apa7",
         "url": "https://github.com/wjschne/apa7"
-
-
     },
     {
         "package": "psycheval",
         "url": "https://github.com/wjschne/psycheval"
-
-
     },
     {
         "package": "unusualprofile",
         "url": "https://github.com/wjschne/unusualprofile"
-
-
     }
 ]

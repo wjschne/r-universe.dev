@@ -11,6 +11,14 @@ options(repos = c(
     CRAN = 'https://cloud.r-project.org'))
 
 # Install some packages
-install.packages('wjschne')
+install.packages(c(
+  'apa7',
+  'arrowheadr', 
+  'ggnormalviolin', 
+  'psycheval', 
+  'simstandard',
+  'unusualprofile',
+  'WJSmisc'
+  ))
 ```
 
